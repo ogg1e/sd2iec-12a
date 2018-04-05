@@ -1,7 +1,7 @@
 # sd2iec-1.2a
 SD2IEC v1.2a Schematics in Eagle Format
 
-I modified the design to remove all the extra headers and add next/prev/reset buttons based on tactile switches from e-switch.
+I modified the design to remove all the extra headers and add next/prev/reset buttons based on tactile switches from e-switch (4.5x4.5mm smd).
 It also uses a connector from amp to connect to the serial port and cassette port for power. It's optional of course and you can just wire it directly to the board.
 
 The sd card slot I used was like this one (26x26x2.5mm):
